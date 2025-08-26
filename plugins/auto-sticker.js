@@ -20,8 +20,8 @@ async (conn, mek, m, { from, body }) => {
 
                     await conn.sendMessage(from, {
                         sticker: stickerBuffer,
-                        packname: 'LUCKY-XD',
-                        author: 'Lucky 218'
+                        packname: 'AESON-MD',
+                        author: 'Salim'
                     }, { quoted: mek });
                 } else {
                     console.warn(`Sticker not found: ${stickerPath}`);
