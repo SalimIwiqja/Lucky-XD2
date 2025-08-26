@@ -4,7 +4,7 @@ const os = require("os");
 const { runtime } = require('../lib/functions');
 const moment = require("moment");
 
-const ALIVE_IMG = "https://files.catbox.moe/4itzeu.jpg";
+const ALIVE_IMG = "https://i.postimg.cc/ydmNtz0N/125265684b09c7e1dc6ae0d7e0ded4aa.jpg";
 
 malvin({
     pattern: "alive",
