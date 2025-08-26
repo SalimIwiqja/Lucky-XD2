@@ -22,7 +22,7 @@ async (conn, mek, m, { from, reply }) => {
 │ 🕰️ *Since:* ${startTime.toLocaleString()}
 │ 🧩 *Status:* Online & stable
 │
-╰─➤ ${config.DESCRIPTION || 'Bot Powered By Lucky Tech Hub.'}
+╰─➤ ${config.DESCRIPTION || 'Bot Powered By Salim.'}
         `.trim();
 
         await conn.sendMessage(from, { 
@@ -33,7 +33,7 @@ async (conn, mek, m, { from, reply }) => {
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: config.OWNER_NAME || 'Lucky 218',
+                    newsletterName: config.OWNER_NAME || 'Salim',
                     serverMessageId: 143
                 }
             }
