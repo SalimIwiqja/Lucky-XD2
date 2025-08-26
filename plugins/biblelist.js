@@ -82,11 +82,11 @@ malvin({
 26. Jude
 27. Revelation
 
-> ©️By Lucky XD v3❤️✅
+> ©️By Aeson-MD ❤️✅
 `;
 
         // Image URL
-        const imageUrl = "https://files.catbox.moe/4itzeu.jpg"; // Replace with the actual image URL
+        const imageUrl = "https://i.postimg.cc/ydmNtz0N/125265684b09c7e1dc6ae0d7e0ded4aa.jpg"; // Replace with the actual image URL
 
         // Check if the chat is valid
         if (!m.chat) {
