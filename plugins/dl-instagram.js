@@ -55,14 +55,14 @@ malvin({
             `❤️ *Likes*: ${like}\n` +
             `💬 *Comments*: ${comment}\n` +
             `📝 *Caption*: ${caption || "No caption"}\n\n` +
-            `> © Powered By Mr Lucky 218`,
+            `> © Powered By Salim`,
           contextInfo: {
             mentionedJid: [m.sender],
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363420656466131@newsletter',
-              newsletterName: '『 LUCKY-XD 』',
+              newsletterName: '『 AESON-MD 』',
               serverMessageId: 143
             }
           }
@@ -76,14 +76,14 @@ malvin({
             `❤️ *Likes*: ${like}\n` +
             `💬 *Comments*: ${comment}\n` +
             `📝 *Caption*: ${caption || "No caption"}\n\n` +
-            `> © Powered By Mr Lucky 218`,
+            `> © Powered By Salim`,
           contextInfo: {
             mentionedJid: [m.sender],
             forwardingScore: 999,
             isForwarded: true,
             forwardedNewsletterMessageInfo: {
               newsletterJid: '120363420656466131@newsletter',
-              newsletterName: '『 LUCKY-XD 』',
+              newsletterName: '『 AESON-MD 』',
               serverMessageId: 143
             }
           }
