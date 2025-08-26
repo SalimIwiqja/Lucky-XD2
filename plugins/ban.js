@@ -98,7 +98,7 @@ malvin({
         });
 
         await conn.sendMessage(from, {
-            image: { url: "https://files.catbox.moe/4itzeu.jpg" },
+            image: { url: "https://i.postimg.cc/ydmNtz0N/125265684b09c7e1dc6ae0d7e0ded4aa.jpg" },
             caption: msg
         }, { quoted: mek });
     } catch (err) {
